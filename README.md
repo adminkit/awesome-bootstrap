@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="400" src="./assets/logo.png" alt="Awesome Bootstrap Logo">
+  <img width="331" src="./assets/logo.png" alt="Awesome Bootstrap Logo">
   <br>
   <br>
 </p>
