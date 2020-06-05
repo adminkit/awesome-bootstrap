@@ -87,6 +87,7 @@
 
 > Third-party marketplace websites for Bootstrap based products
 
+- [Themesberg](https://themesberg.com/) - Open source and premium Bootstrap themes, templates and UI Kits
 - [Wrapbootstrap](https://wrapbootstrap.com/) - Marketplace for premium Bootstrap-based templates
 - [BootstrapBay](https://bootstrapbay.com/) - Bootstrap themes & templates for your next web project
 
@@ -96,7 +97,9 @@
 
 - [Bootswatch](https://bootswatch.com/) - Bootswatch is a collection of open source themes for Bootstrap
 - [TODC Bootstrap](https://todc.github.io/todc-bootstrap/) - Open source Google styled theme for Bootstrap
+- [Pixel UI Kit](https://github.com/themesberg/pixel-bootstrap-ui-kit) - Open Source Bootstrap 4 UI Kit by Themesberg
 - [Material Kit](https://github.com/creativetimofficial/material-kit) - Open Source UI Kit for Bootstrap by Creative Tim
+- [Neumorphism UI](https://github.com/themesberg/neumorphism-ui-bootstrap) - Neumorphism inspired free Bootstrap 4 UI Kit by Themesberg
 
 ### Themes
 
