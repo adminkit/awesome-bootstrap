@@ -1,13 +1,13 @@
 <p align="center">
   <br>
-  <img width="331" src="./assets/logo.png" alt="Awesome Bootstrap Logo">
+  <img width="400" src="./assets/logo.png" alt="Awesome Bootstrap Logo">
   <br>
   <br>
 </p>
 
 ## Awesome Bootstrap [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome things related to Bootstrap 4
+> A curated list of awesome things related to Bootstrap 4 and 5
 
 - [Resources](#resources)
   - [Official Resources](#official-resources)
@@ -30,7 +30,9 @@
 > Projects created and maintained by Bootstrap's creators
 
 - [Website](https://getbootstrap.com/)
+- [Website](https://v5.getbootstrap.com/) 5️⃣
 - [Docs](https://getbootstrap.com/docs/)
+- [Docs](https://v5.getbootstrap.com/docs/) 5️⃣
 - [Blog](https://blog.getbootstrap.com/)
 - [Icons](https://icons.getbootstrap.com/)
 - [Expo](https://expo.getbootstrap.com/)
@@ -87,7 +89,6 @@
 
 > Third-party marketplace websites for Bootstrap based products
 
-- [Themesberg](https://themesberg.com/) - Open source and premium Bootstrap themes, templates and UI Kits
 - [Wrapbootstrap](https://wrapbootstrap.com/) - Marketplace for premium Bootstrap-based templates
 - [BootstrapBay](https://bootstrapbay.com/) - Bootstrap themes & templates for your next web project
 
@@ -97,15 +98,15 @@
 
 - [Bootswatch](https://bootswatch.com/) - Bootswatch is a collection of open source themes for Bootstrap
 - [TODC Bootstrap](https://todc.github.io/todc-bootstrap/) - Open source Google styled theme for Bootstrap
-- [Pixel UI Kit](https://github.com/themesberg/pixel-bootstrap-ui-kit) - Open Source Bootstrap 4 UI Kit by Themesberg
 - [Material Kit](https://github.com/creativetimofficial/material-kit) - Open Source UI Kit for Bootstrap by Creative Tim
-- [Neumorphism UI](https://github.com/themesberg/neumorphism-ui-bootstrap) - Neumorphism inspired free Bootstrap 4 UI Kit by Themesberg
 
 ### Themes
 
 > Open source Themes & Templates based on Bootstrap
 
-- [AdminKit](https://adminkit.io/) - Open source Web UI Kit & Dashboard Template based on Bootstrap
+- [AdminKit](https://github.com/adminkit/adminkit/) - Free Bootstrap 5 Admin Template 5️⃣
+- [AdminKit Pro](https://adminkit.io/) - Premium Bootstrap 5 Admin Template 5️⃣
+- [Volt](https://github.com/themesberg/volt-bootstrap-5-dashboard) - Bootstrap 5 Admin Dashboard Template with vanilla Javascript 5️⃣
 - [Tabler](https://tabler.io/) - Open source dashboard template with responsive and high quality UI based on Bootstrap
 - [Material Dashboard](https://www.creative-tim.com/product/material-dashboard) - Material Bootstrap 4 Admin template by Creative Tim
 - [Argon Dashboard](https://www.creative-tim.com/product/argon-dashboard) - Dashboard for Bootstrap 4 by Creative Tim
